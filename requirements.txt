@@ -1,0 +1,4 @@
+requests
+loguru
+telethon
+git+https://github.com/thedemons/opentele.git
